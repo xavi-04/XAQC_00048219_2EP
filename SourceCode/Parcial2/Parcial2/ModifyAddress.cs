@@ -2,9 +2,9 @@
 
 namespace Parcial2
 {
-    public partial class Welcome : UserControl
+    public partial class ModifyAddress : UserControl
     {
-        public Welcome()
+        public ModifyAddress()
         {
             InitializeComponent();
         }

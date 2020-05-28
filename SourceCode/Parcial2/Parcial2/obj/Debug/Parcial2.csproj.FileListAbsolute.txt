@@ -59,11 +59,8 @@ C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Pa
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.ValueTuple.xml
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.exe.config
-C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.AddUser.resources
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.Form1.resources
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
-C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.Restaurant.resources
-C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.Welcome.resources
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CopyComplete
@@ -71,3 +68,13 @@ C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Pa
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.AdminWindow.resources
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.CreateUser.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.RemoveUser.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.UpdatePassword.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.UserWindow.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.CreateBusiness.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.CreateProduct.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.RemoveBusiness.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.RemoveProduct.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.CreateAddress.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.ModifyAddress.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.RemoveAddress.resources

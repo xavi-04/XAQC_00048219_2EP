@@ -16,6 +16,38 @@ namespace Parcial2
         {
             InitializeComponent();
         }
+
         
+        private void button1_Click(object sender, EventArgs e)
+        {
+            User use = (User)comboBox1.SelectedItem;
+            
+            try
+            {
+                if (comboBox1.SelectedValue.Equals(textBox1.Text))
+                {
+                    if (use.UserType is true)
+                    {
+                        AdminWindow admin = new AdminWindow();
+                        admin.Show();
+                        Hide();
+                    }
+                    else
+                    {
+                        UserWindow user = new UserWindow();
+                        user.Show();
+                        Hide();
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Contraseña incorrecta");
+                }
+
+            }catch(Exception ex)
+            {
+                MessageBox.Show("Ha ocurrido un error");
+            }
+        }
     }
 }

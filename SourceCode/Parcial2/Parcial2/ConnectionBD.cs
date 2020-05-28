@@ -3,7 +3,7 @@ using Npgsql;
 
 namespace Parcial2
 {
-    public static class ConnectionDB
+    public static class ConnectionBD
     {
         private static string host = "127.0.0.1",
             database = "parcial02",

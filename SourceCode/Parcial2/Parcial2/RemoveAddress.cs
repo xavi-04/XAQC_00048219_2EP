@@ -2,9 +2,9 @@
 
 namespace Parcial2
 {
-    public partial class AddUser : UserControl
+    public partial class RemoveAddress : UserControl
     {
-        public AddUser()
+        public RemoveAddress()
         {
             InitializeComponent();
         }

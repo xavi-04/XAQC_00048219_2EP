@@ -91,19 +91,33 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="AddUser.cs">
-          <SubType>UserControl</SubType>
-        </Compile>
-        <Compile Include="AddUser.Designer.cs">
-          <DependentUpon>AddUser.cs</DependentUpon>
-        </Compile>
         <Compile Include="AdminWindow.cs">
           <SubType>Form</SubType>
         </Compile>
         <Compile Include="AdminWindow.Designer.cs">
           <DependentUpon>AdminWindow.cs</DependentUpon>
         </Compile>
-        <Compile Include="ConnectionDB.cs" />
+        <Compile Include="Business.cs" />
+        <Compile Include="BusinessData.cs" />
+        <Compile Include="ConnectionBD.cs" />
+        <Compile Include="CreateAddress.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="CreateAddress.Designer.cs">
+          <DependentUpon>CreateAddress.cs</DependentUpon>
+        </Compile>
+        <Compile Include="CreateBusiness.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="CreateBusiness.Designer.cs">
+          <DependentUpon>CreateBusiness.cs</DependentUpon>
+        </Compile>
+        <Compile Include="CreateProduct.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="CreateProduct.Designer.cs">
+          <DependentUpon>CreateProduct.cs</DependentUpon>
+        </Compile>
         <Compile Include="CreateUser.cs">
           <SubType>UserControl</SubType>
         </Compile>
@@ -116,19 +130,40 @@
         <Compile Include="Form1.Designer.cs">
             <DependentUpon>Form1.cs</DependentUpon>
         </Compile>
+        <Compile Include="ModifyAddress.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="ModifyAddress.Designer.cs">
+          <DependentUpon>ModifyAddress.cs</DependentUpon>
+        </Compile>
+        <Compile Include="NotBusinessSelected.cs" />
+        <Compile Include="Product.cs" />
+        <Compile Include="ProductData.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="RemoveAddress.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="RemoveAddress.Designer.cs">
+          <DependentUpon>RemoveAddress.cs</DependentUpon>
+        </Compile>
+        <Compile Include="RemoveBusiness.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="RemoveBusiness.Designer.cs">
+          <DependentUpon>RemoveBusiness.cs</DependentUpon>
+        </Compile>
+        <Compile Include="RemoveProduct.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="RemoveProduct.Designer.cs">
+          <DependentUpon>RemoveProduct.cs</DependentUpon>
+        </Compile>
         <Compile Include="RemoveUser.cs">
           <SubType>UserControl</SubType>
         </Compile>
         <Compile Include="RemoveUser.Designer.cs">
           <DependentUpon>RemoveUser.cs</DependentUpon>
-        </Compile>
-        <Compile Include="Restaurant.cs">
-          <SubType>UserControl</SubType>
-        </Compile>
-        <Compile Include="Restaurant.Designer.cs">
-          <DependentUpon>Restaurant.cs</DependentUpon>
         </Compile>
         <Compile Include="UpdatePassword.cs">
           <SubType>UserControl</SubType>
@@ -136,23 +171,34 @@
         <Compile Include="UpdatePassword.Designer.cs">
           <DependentUpon>UpdatePassword.cs</DependentUpon>
         </Compile>
-        <Compile Include="Welcome.cs">
-          <SubType>UserControl</SubType>
+        <Compile Include="User.cs" />
+        <Compile Include="UserData.cs" />
+        <Compile Include="UserWindow.cs">
+          <SubType>Form</SubType>
         </Compile>
-        <Compile Include="Welcome.Designer.cs">
-          <DependentUpon>Welcome.cs</DependentUpon>
+        <Compile Include="UserWindow.Designer.cs">
+          <DependentUpon>UserWindow.cs</DependentUpon>
         </Compile>
-        <EmbeddedResource Include="AddUser.resx">
-          <DependentUpon>AddUser.cs</DependentUpon>
-        </EmbeddedResource>
         <EmbeddedResource Include="AdminWindow.resx">
           <DependentUpon>AdminWindow.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="CreateAddress.resx">
+          <DependentUpon>CreateAddress.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="CreateBusiness.resx">
+          <DependentUpon>CreateBusiness.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="CreateProduct.resx">
+          <DependentUpon>CreateProduct.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="CreateUser.resx">
           <DependentUpon>CreateUser.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="ModifyAddress.resx">
+          <DependentUpon>ModifyAddress.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="Properties\Resources.resx">
             <Generator>ResXFileCodeGenerator</Generator>
@@ -163,11 +209,23 @@
             <AutoGen>True</AutoGen>
             <DependentUpon>Resources.resx</DependentUpon>
         </Compile>
-        <EmbeddedResource Include="Restaurant.resx">
-          <DependentUpon>Restaurant.cs</DependentUpon>
+        <EmbeddedResource Include="RemoveAddress.resx">
+          <DependentUpon>RemoveAddress.cs</DependentUpon>
         </EmbeddedResource>
-        <EmbeddedResource Include="Welcome.resx">
-          <DependentUpon>Welcome.cs</DependentUpon>
+        <EmbeddedResource Include="RemoveBusiness.resx">
+          <DependentUpon>RemoveBusiness.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="RemoveProduct.resx">
+          <DependentUpon>RemoveProduct.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="RemoveUser.resx">
+          <DependentUpon>RemoveUser.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="UpdatePassword.resx">
+          <DependentUpon>UpdatePassword.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="UserWindow.resx">
+          <DependentUpon>UserWindow.cs</DependentUpon>
         </EmbeddedResource>
         <None Include="packages.config" />
         <None Include="Properties\Settings.settings">
