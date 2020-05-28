@@ -53,7 +53,7 @@ namespace Parcial2
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 79.02736F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20.97264F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(413, 329);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(727, 440);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // button1
@@ -66,9 +66,9 @@ namespace Parcial2
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Times New Roman", 20.25F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(3, 263);
+            this.button1.Location = new System.Drawing.Point(3, 350);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(407, 63);
+            this.button1.Size = new System.Drawing.Size(721, 87);
             this.button1.TabIndex = 0;
             this.button1.Text = "Agregar dirección";
             this.button1.UseVisualStyleBackColor = true;
@@ -81,7 +81,7 @@ namespace Parcial2
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(200, 260);
+            this.label1.Size = new System.Drawing.Size(357, 347);
             this.label1.TabIndex = 1;
             this.label1.Text = "Dirección";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -89,9 +89,9 @@ namespace Parcial2
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.textBox1.Location = new System.Drawing.Point(209, 120);
+            this.textBox1.Location = new System.Drawing.Point(366, 163);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(187, 20);
+            this.textBox1.Size = new System.Drawing.Size(298, 20);
             this.textBox1.TabIndex = 2;
             // 
             // CreateAddress
@@ -101,7 +101,7 @@ namespace Parcial2
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (53)))), ((int) (((byte) (2)))), ((int) (((byte) (83)))));
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "CreateAddress";
-            this.Size = new System.Drawing.Size(413, 329);
+            this.Size = new System.Drawing.Size(727, 440);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

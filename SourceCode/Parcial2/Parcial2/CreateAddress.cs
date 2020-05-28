@@ -15,7 +15,7 @@ namespace Parcial2
         {
             if (textBox1.Text.Equals(""))
             {
-                MessageBox.Show("Necesita una dirección");
+                MessageBox.Show("Se necesita de una dirección");
             }
             else
             {
@@ -30,5 +30,6 @@ namespace Parcial2
                 }
             }
         }
+        
     }
 }

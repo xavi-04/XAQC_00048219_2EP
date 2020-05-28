@@ -91,6 +91,8 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Address.cs" />
+        <Compile Include="AddressData.cs" />
         <Compile Include="AdminWindow.cs">
           <SubType>Form</SubType>
         </Compile>
@@ -111,6 +113,12 @@
         </Compile>
         <Compile Include="CreateBusiness.Designer.cs">
           <DependentUpon>CreateBusiness.cs</DependentUpon>
+        </Compile>
+        <Compile Include="CreateOrder.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="CreateOrder.Designer.cs">
+          <DependentUpon>CreateOrder.cs</DependentUpon>
         </Compile>
         <Compile Include="CreateProduct.cs">
           <SubType>UserControl</SubType>
@@ -137,6 +145,8 @@
           <DependentUpon>ModifyAddress.cs</DependentUpon>
         </Compile>
         <Compile Include="NotBusinessSelected.cs" />
+        <Compile Include="Order.cs" />
+        <Compile Include="OrderData.cs" />
         <Compile Include="Product.cs" />
         <Compile Include="ProductData.cs" />
         <Compile Include="Program.cs" />
@@ -152,6 +162,12 @@
         </Compile>
         <Compile Include="RemoveBusiness.Designer.cs">
           <DependentUpon>RemoveBusiness.cs</DependentUpon>
+        </Compile>
+        <Compile Include="RemoveOrder.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="RemoveOrder.Designer.cs">
+          <DependentUpon>RemoveOrder.cs</DependentUpon>
         </Compile>
         <Compile Include="RemoveProduct.cs">
           <SubType>UserControl</SubType>
@@ -179,6 +195,12 @@
         <Compile Include="UserWindow.Designer.cs">
           <DependentUpon>UserWindow.cs</DependentUpon>
         </Compile>
+        <Compile Include="VisualizeOrder.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="VisualizeOrder.Designer.cs">
+          <DependentUpon>VisualizeOrder.cs</DependentUpon>
+        </Compile>
         <EmbeddedResource Include="AdminWindow.resx">
           <DependentUpon>AdminWindow.cs</DependentUpon>
         </EmbeddedResource>
@@ -187,6 +209,9 @@
         </EmbeddedResource>
         <EmbeddedResource Include="CreateBusiness.resx">
           <DependentUpon>CreateBusiness.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="CreateOrder.resx">
+          <DependentUpon>CreateOrder.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="CreateProduct.resx">
           <DependentUpon>CreateProduct.cs</DependentUpon>
@@ -215,6 +240,9 @@
         <EmbeddedResource Include="RemoveBusiness.resx">
           <DependentUpon>RemoveBusiness.cs</DependentUpon>
         </EmbeddedResource>
+        <EmbeddedResource Include="RemoveOrder.resx">
+          <DependentUpon>RemoveOrder.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="RemoveProduct.resx">
           <DependentUpon>RemoveProduct.cs</DependentUpon>
         </EmbeddedResource>
@@ -226,6 +254,9 @@
         </EmbeddedResource>
         <EmbeddedResource Include="UserWindow.resx">
           <DependentUpon>UserWindow.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="VisualizeOrder.resx">
+          <DependentUpon>VisualizeOrder.cs</DependentUpon>
         </EmbeddedResource>
         <None Include="packages.config" />
         <None Include="Properties\Settings.settings">

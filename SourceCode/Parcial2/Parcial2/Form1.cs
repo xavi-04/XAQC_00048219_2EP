@@ -17,6 +17,13 @@ namespace Parcial2
             InitializeComponent();
         }
 
+        public void poblarControles()
+        {
+            comboBox1.DataSource = null;
+            comboBox1.ValueMember = "password";
+            comboBox1.DisplayMember = "username";
+            comboBox1.DataSource = UserData.getLista();
+        }
         
         private void button1_Click(object sender, EventArgs e)
         {
@@ -48,6 +55,12 @@ namespace Parcial2
             {
                 MessageBox.Show("Ha ocurrido un error");
             }
+            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            poblarControles();
         }
     }
 }

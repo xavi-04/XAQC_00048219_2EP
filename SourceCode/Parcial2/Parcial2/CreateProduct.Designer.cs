@@ -61,7 +61,7 @@ namespace Parcial2
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(514, 408);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(721, 505);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // label1
@@ -69,9 +69,9 @@ namespace Parcial2
             this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 21.75F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(3, 67);
+            this.label1.Location = new System.Drawing.Point(3, 84);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(251, 67);
+            this.label1.Size = new System.Drawing.Size(354, 84);
             this.label1.TabIndex = 0;
             this.label1.Text = "Negocio";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -81,9 +81,9 @@ namespace Parcial2
             this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 21.75F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(3, 201);
+            this.label2.Location = new System.Drawing.Point(3, 252);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(251, 67);
+            this.label2.Size = new System.Drawing.Size(354, 84);
             this.label2.TabIndex = 1;
             this.label2.Text = "Producto";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -91,18 +91,19 @@ namespace Parcial2
             // comboBox1
             // 
             this.comboBox1.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(260, 90);
+            this.comboBox1.Location = new System.Drawing.Point(363, 115);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(202, 21);
+            this.comboBox1.Size = new System.Drawing.Size(299, 21);
             this.comboBox1.TabIndex = 2;
             // 
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.textBox1.Location = new System.Drawing.Point(260, 224);
+            this.textBox1.Location = new System.Drawing.Point(363, 284);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(202, 20);
+            this.textBox1.Size = new System.Drawing.Size(299, 20);
             this.textBox1.TabIndex = 3;
             // 
             // button1
@@ -115,9 +116,9 @@ namespace Parcial2
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Times New Roman", 20.25F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(3, 338);
+            this.button1.Location = new System.Drawing.Point(3, 423);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(508, 67);
+            this.button1.Size = new System.Drawing.Size(715, 79);
             this.button1.TabIndex = 4;
             this.button1.Text = "Añadir producto";
             this.button1.UseVisualStyleBackColor = true;
@@ -130,7 +131,8 @@ namespace Parcial2
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (53)))), ((int) (((byte) (2)))), ((int) (((byte) (83)))));
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "CreateProduct";
-            this.Size = new System.Drawing.Size(514, 408);
+            this.Size = new System.Drawing.Size(721, 505);
+            this.Load += new System.EventHandler(this.CreateProduct_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

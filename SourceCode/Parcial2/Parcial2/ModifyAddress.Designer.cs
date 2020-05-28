@@ -62,16 +62,16 @@ namespace Parcial2
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(397, 356);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(602, 495);
             this.tableLayoutPanel1.TabIndex = 1;
             // 
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.tableLayoutPanel1.SetColumnSpan(this.textBox1, 2);
-            this.textBox1.Location = new System.Drawing.Point(135, 196);
+            this.textBox1.Location = new System.Drawing.Point(203, 277);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(212, 20);
+            this.textBox1.Size = new System.Drawing.Size(346, 20);
             this.textBox1.TabIndex = 0;
             // 
             // comboBox1
@@ -79,9 +79,9 @@ namespace Parcial2
             this.comboBox1.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.tableLayoutPanel1.SetColumnSpan(this.comboBox1, 2);
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(135, 84);
+            this.comboBox1.Location = new System.Drawing.Point(203, 112);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(212, 21);
+            this.comboBox1.Size = new System.Drawing.Size(346, 21);
             this.comboBox1.TabIndex = 1;
             // 
             // button1
@@ -94,21 +94,22 @@ namespace Parcial2
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Times New Roman", 20.25F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(3, 298);
+            this.button1.Location = new System.Drawing.Point(3, 413);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(391, 55);
+            this.button1.Size = new System.Drawing.Size(596, 79);
             this.button1.TabIndex = 2;
             this.button1.Text = "Modificar dirección";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
             this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 18F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(3, 59);
+            this.label1.Location = new System.Drawing.Point(3, 82);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(126, 59);
+            this.label1.Size = new System.Drawing.Size(194, 82);
             this.label1.TabIndex = 3;
             this.label1.Text = "Dirección";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -118,9 +119,9 @@ namespace Parcial2
             this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 15.75F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(3, 177);
+            this.label2.Location = new System.Drawing.Point(3, 246);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(126, 59);
+            this.label2.Size = new System.Drawing.Size(194, 82);
             this.label2.TabIndex = 4;
             this.label2.Text = "Nueva dirección";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -132,7 +133,8 @@ namespace Parcial2
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (53)))), ((int) (((byte) (2)))), ((int) (((byte) (83)))));
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "ModifyAddress";
-            this.Size = new System.Drawing.Size(397, 356);
+            this.Size = new System.Drawing.Size(602, 495);
+            this.Load += new System.EventHandler(this.ModifyAddress_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);

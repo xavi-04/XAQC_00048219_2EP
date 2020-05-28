@@ -23,7 +23,7 @@ namespace Parcial2
                     ConnectionBD.ExecuteNonQuery($"INSERT INTO BUSINESS(name, description) " +
                                                  $"VALUES('{textBox1.Text}', '{textBox2.Text}');");
 
-                    MessageBox.Show("Se agrego un negocio");
+                    MessageBox.Show("Se agrego un negocio exitosamente");
 
                 }
                 catch(Exception ex)

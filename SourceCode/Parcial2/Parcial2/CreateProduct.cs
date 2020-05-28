@@ -10,10 +10,11 @@ namespace Parcial2
             InitializeComponent();
         }
 
-        private void AddProduct_Load(object sender, EventArgs e)
+        private void CreateProduct_Load(object sender, EventArgs e)
         {
             PoblarControles();
         }
+        
         private void PoblarControles()
         {
             comboBox1.DataSource = null;
@@ -26,7 +27,7 @@ namespace Parcial2
         {
             if (comboBox1.SelectedItem == null)
             {
-                throw new NotBusinessSelected("No se selecciono ningún restaurante");
+                throw new NotBusinessSelected("No se ha seleccionado un restaurante");
             }
             else
             {
@@ -35,7 +36,7 @@ namespace Parcial2
                     ConnectionBD.ExecuteNonQuery($"INSERT INTO PRODUCT(idBusiness, name) " +
                                                  $"VALUES('{comboBox1.SelectedValue}', '{textBox1.Text}');");
 
-                    MessageBox.Show("Se agrego un producto");
+                    MessageBox.Show("Se ha agregado el producto");
                 }
                 catch (NotBusinessSelected ex)
                 {
@@ -49,5 +50,7 @@ namespace Parcial2
                 
             }
         }
+
+        
     }
 }

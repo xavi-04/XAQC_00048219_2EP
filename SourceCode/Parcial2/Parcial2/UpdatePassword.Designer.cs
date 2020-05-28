@@ -60,7 +60,7 @@ namespace Parcial2
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.61702F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.95745F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(486, 376);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(654, 489);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // button1
@@ -73,9 +73,9 @@ namespace Parcial2
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Times New Roman", 20.25F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(3, 318);
+            this.button1.Location = new System.Drawing.Point(3, 412);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(480, 55);
+            this.button1.Size = new System.Drawing.Size(648, 74);
             this.button1.TabIndex = 2;
             this.button1.Text = "Actualizar contraseña";
             this.button1.UseVisualStyleBackColor = true;
@@ -84,7 +84,7 @@ namespace Parcial2
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.textBox1.Location = new System.Drawing.Point(246, 169);
+            this.textBox1.Location = new System.Drawing.Point(330, 223);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(217, 20);
             this.textBox1.TabIndex = 1;
@@ -94,7 +94,7 @@ namespace Parcial2
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 21.75F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(13, 141);
+            this.label1.Location = new System.Drawing.Point(55, 194);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(217, 77);
             this.label1.TabIndex = 0;
@@ -106,7 +106,7 @@ namespace Parcial2
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 20.25F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(39, 25);
+            this.label2.Location = new System.Drawing.Point(81, 42);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(164, 64);
             this.label2.TabIndex = 3;
@@ -116,8 +116,9 @@ namespace Parcial2
             // comboBox1
             // 
             this.comboBox1.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(246, 46);
+            this.comboBox1.Location = new System.Drawing.Point(330, 63);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(217, 21);
             this.comboBox1.TabIndex = 4;
@@ -129,7 +130,7 @@ namespace Parcial2
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (53)))), ((int) (((byte) (2)))), ((int) (((byte) (83)))));
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "UpdatePassword";
-            this.Size = new System.Drawing.Size(486, 376);
+            this.Size = new System.Drawing.Size(654, 489);
             this.Load += new System.EventHandler(this.UpdatePassword_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();

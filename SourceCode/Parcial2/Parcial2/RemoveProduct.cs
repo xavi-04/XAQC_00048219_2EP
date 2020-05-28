@@ -10,6 +10,11 @@ namespace Parcial2
             InitializeComponent();
         }
 
+        private void RemoveProduct_Load(object sender, EventArgs e)
+        {
+            PoblarControles();
+        }
+        
         private void PoblarControles()
         {
             comboBox1.DataSource = null;
@@ -37,12 +42,5 @@ namespace Parcial2
                 MessageBox.Show("Ha ocurrido un error");
             }
         }
-
-        private void RemoveProduct_Load(object sender, EventArgs e)
-        {
-            PoblarControles();
-        }
-        
-        
     }
 }

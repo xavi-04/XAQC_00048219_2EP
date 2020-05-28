@@ -78,3 +78,6 @@ C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Pa
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.CreateAddress.resources
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.ModifyAddress.resources
 C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.RemoveAddress.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.CreateOrder.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.RemoveOrder.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.VisualizeOrder.resources

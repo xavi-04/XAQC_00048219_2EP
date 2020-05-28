@@ -25,7 +25,7 @@ namespace Parcial2
                     {
                         ConnectionBD.ExecuteNonQuery($"INSERT INTO APPUSER (fullname, username, password, userType) " +
                                                      $"VALUES ('{textBox1.Text}', " +
-                                                     $"'{textBox2.Text}', '{textBox3.Text}' ,'{false}')");
+                                                     $"'{textBox2.Text}', '{textBox3.Text}' ,'{true}')");
 
                         MessageBox.Show("Se registro un administrador exitosamente");
 
@@ -34,7 +34,7 @@ namespace Parcial2
                     {
                         ConnectionBD.ExecuteNonQuery($"INSERT INTO APPUSER (fullname, username, password, userType) " +
                                                      $"VALUES ('{textBox1.Text}', " +
-                                                     $"'{textBox2.Text}', '{textBox3.Text}' ,'{true}')");
+                                                     $"'{textBox2.Text}', '{textBox3.Text}' ,'{false}')");
 
                         MessageBox.Show("Se registro un usuario exitosamente");
 
