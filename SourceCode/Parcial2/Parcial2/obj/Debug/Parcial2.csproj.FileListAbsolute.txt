@@ -1,0 +1,73 @@
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.Form1.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\Npgsql.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Buffers.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Memory.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Text.Json.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.ValueTuple.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\Npgsql.pdb
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\Npgsql.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Buffers.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Memory.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Text.Json.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\bin\Debug\System.ValueTuple.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.exe.config
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.AddUser.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.Restaurant.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CopyComplete
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\2 examen parcial\Parcial2\Parcial2\obj\Debug\Parcial2.Welcome.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\Npgsql.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Buffers.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Memory.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Text.Json.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.ValueTuple.dll
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\Npgsql.pdb
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\Npgsql.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Buffers.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Memory.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Text.Json.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\bin\Debug\System.ValueTuple.xml
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.exe.config
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.AddUser.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.Form1.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.Restaurant.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.Welcome.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CopyComplete
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.AdminWindow.resources
+C:\Users\xavie\OneDrive\Documentos\WorkSpace\POO\XAQC_00048219_2EP\SourceCode\Parcial2\Parcial2\obj\Debug\Parcial2.CreateUser.resources
